@@ -1,23 +1,23 @@
 {
-    "17094942679": {
-        "universeId": 5858365518,
+    "116495829188952": {
+        "universeId": 7018190066,
         "productInfo": {
-            "AssetId": 17094942679,
-            "Name": "Experience RNG"
+            "AssetId": 116495829188952,
+            "Name": "Dead Rails [Alpha]"
         },
         "data": {
-            "id": 5858365518,
-            "rootPlaceId": 17094942679,
-            "name": "Experience RNG",
-            "description": "Experience RNG is made with heavy inspiration from {player rng \ud83c\udfb2 (testing)} made by {haz3mn}.\n\nExperience RNG/Place RNG/Game RNG",
-            "sourceName": "Experience RNG",
-            "sourceDescription": "Experience RNG is made with heavy inspiration from {player rng \ud83c\udfb2 (testing)} made by {haz3mn}.\n\nExperience RNG/Place RNG/Game RNG",
+            "id": 7018190066,
+            "rootPlaceId": 116495829188952,
+            "name": "Dead Rails [Alpha]",
+            "description": "In 1899, a mysterious virus swept the American continent. Dubbed the \"Zombie Plague\", a cure was discovered in Mexico. Climb aboard your train and traverse the unforgiving, zombie-infested desert on your way to the cure...\n\nLike and favorite the game for updates\n\nLatest Update (3/28/2025) \n\nNew POI - Town of Sterling, an abandoned town with a mineshaft full of secrets...\nNightmare Mode - After winning 1 normal game, you unlock nightmare mode with less loot, no passive regeneration, enemies do more damage + have more health, and you get more bonds upon completion.\nOres - Gold & Silver ores now spawn along the track and can be mined to get ore nuggets. (The miner class can mine these fast!)\nRotate Objects - You can now rotate objects in all 3 axis while dragging\nHorse Cart - Spawns in farms, can be attached to a horse and allows items to be welded to it\nNew Zombie Variants - Zombies have a 5% chance of being 1 of 3 special v",
+            "sourceName": "Dead Rails [Alpha]",
+            "sourceDescription": "In 1899, a mysterious virus swept the American continent. Dubbed the \"Zombie Plague\", a cure was discovered in Mexico. Climb aboard your train and traverse the unforgiving, zombie-infested desert on your way to the cure...\n\nLike and favorite the game for updates\n\nLatest Update (3/28/2025) \n\nNew POI - Town of Sterling, an abandoned town with a mineshaft full of secrets...\nNightmare Mode - After winning 1 normal game, you unlock nightmare mode with less loot, no passive regeneration, enemies do more damage + have more health, and you get more bonds upon completion.\nOres - Gold & Silver ores now spawn along the track and can be mined to get ore nuggets. (The miner class can mine these fast!)\nRotate Objects - You can now rotate objects in all 3 axis while dragging\nHorse Cart - Spawns in farms, can be attached to a horse and allows items to be welded to it\nNew Zombie Variants - Zombies have a 5% chance of being 1 of 3 special v",
             "creator": {
-                "id": 33923525,
-                "name": "Nekzome Studios",
+                "id": 11867394,
+                "name": "RCM Games",
                 "type": "Group",
                 "isRNVAccount": false,
-                "hasVerifiedBadge": false
+                "hasVerifiedBadge": true
             },
             "price": null,
             "allowedGearGenres": [
@@ -26,20 +26,20 @@
             "allowedGearCategories": [],
             "isGenreEnforced": false,
             "copyingAllowed": false,
-            "playing": 0,
-            "visits": 128390,
-            "maxPlayers": 30,
-            "created": "2024-04-10T20:11:39.577Z",
-            "updated": "2025-04-01T11:10:09.5845373Z",
+            "playing": 522850,
+            "visits": 981950025,
+            "maxPlayers": 16,
+            "created": "2025-01-01T18:35:30.213Z",
+            "updated": "2025-04-01T06:14:14.3616739Z",
             "studioAccessToApisAllowed": false,
             "createVipServersAllowed": false,
-            "universeAvatarType": "MorphToR15",
+            "universeAvatarType": "MorphToR6",
             "genre": "All",
-            "genre_l1": "",
-            "genre_l2": "",
+            "genre_l1": "Adventure",
+            "genre_l2": "Exploration",
             "isAllGenre": true,
             "isFavoritedByUser": false,
-            "favoritedCount": 928
+            "favoritedCount": 1050862
         }
     }
 }
