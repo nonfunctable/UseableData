@@ -13015,8 +13015,8 @@
             "genre_l1": "Roleplay & Avatar Sim",
             "genre_l2": "",
             "isAllGenre": false,
-            "isFavoritedByUser": false,
-            "favoritedCount": 96843
+            "isFavoritedByUser": true,
+            "favoritedCount": 59632
         }
     },
     "606849621": {
@@ -13048,7 +13048,7 @@
             "copyingAllowed": false,
             "playing": 8235,
             "visits": 7349499572,
-            "maxPlayers": 28,
+            "maxPlayers": 38,
             "created": "2017-01-06T16:39:11.173Z",
             "updated": "2025-04-01T05:20:33.1188584Z",
             "studioAccessToApisAllowed": false,
@@ -13058,8 +13058,8 @@
             "genre_l1": "Action",
             "genre_l2": "Open World Action",
             "isAllGenre": false,
-            "isFavoritedByUser": false,
-            "favoritedCount": 18365794
+            "isFavoritedByUser": true,
+            "favoritedCount": 523596821
         }
     },
     "12120045656": {
